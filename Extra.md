@@ -17,5 +17,9 @@ print s
 
 | Chemical | Mechanical | Civil |
 | ---------|------------|--------|
-| IT       | Biomedical | Indusial |
+| IT       | Biomedical | Industrial |
+
+__Spring2019__ 
+
+
 
