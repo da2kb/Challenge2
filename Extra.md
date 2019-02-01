@@ -1,9 +1,9 @@
 
 [a relative link](README.md)
 
-##Mizzou
+## Mizzou
 
-####Tiger
+#### Tiger
 
 [I'm an inline-style link](https://www.google.com "Google's Homepage")
 ![](Mizzou.png)
