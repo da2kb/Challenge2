@@ -12,6 +12,6 @@ print s
 2. To
 3. Women
 * To avoid hypothermia 
- * Wear gloves and masks
- * Don't walk outside too much
+  * Wear gloves and masks
+  * Don't walk outside too much
 
