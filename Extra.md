@@ -20,6 +20,7 @@ print s
 | IT       | Biomedical | Industrial |
 
 __Spring2019__ 
+**SP2019**
 
 
 
