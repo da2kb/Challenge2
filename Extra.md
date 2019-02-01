@@ -19,9 +19,11 @@ print s
 | ---------|------------|--------|
 | IT       | Biomedical | Industrial |
  
-**SP2019**
+**University of Missouri**
 
-*Jan31s2019*
+*Coloumbia,MO*
+
+~~United states of America~~
 
 
 
