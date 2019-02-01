@@ -18,9 +18,11 @@ print s
 | Chemical | Mechanical | Civil |
 | ---------|------------|--------|
 | IT       | Biomedical | Industrial |
-
-__Spring2019__ 
+ 
 **SP2019**
+
+*Jan31s2019*
+
 
 
 
