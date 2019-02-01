@@ -11,4 +11,7 @@ print s
 1. Power
 2. To
 3. Women
+* To avoid hypothermia 
+ * Wear gloves and masks
+ * Don't walk outside too much
 
