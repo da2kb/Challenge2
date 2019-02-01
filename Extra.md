@@ -8,4 +8,7 @@
 s = " Mizzou Classes were canceled on Jan 30th "
 print s
 ```
+1. Power
+2. To
+3. Women
 
