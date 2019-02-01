@@ -28,7 +28,7 @@ print s
 
 ![Egypt](https://i.gocollette.com/img/tours/africa/treasures-of-egypt/treasures-of-egypt_125801595_carousel1.jpg)
 
-...
+___
 
 
 
