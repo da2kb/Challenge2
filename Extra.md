@@ -11,6 +11,8 @@
 s = " Mizzou Classes were canceled on Jan 30th "
 print s
 ```
+> La Vie En Rose
+
 1. Power
 2. To
 3. Women
