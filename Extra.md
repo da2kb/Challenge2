@@ -14,5 +14,8 @@ print s
 * To avoid hypothermia 
   * Wear gloves and masks
   * Don't walk outside too much
+
 | Chemical | Mechanical | Civil |
-| IT       | Biomedical | Indusial | 
+| ---------|------------|--------|
+| IT       | Biomedical | Indusial |
+
