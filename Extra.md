@@ -4,3 +4,8 @@
 #### Tigers
 [I'm an inline-style link](https://www.google.com "Google's Homepage")
 ![](Mizzou.png)
+```python
+s = " Mizzou Classes were canceled on Jan 30th "
+print s
+```
+
