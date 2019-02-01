@@ -1,2 +1,2 @@
 # Challenge2
-[Extra.md] (Extra.md)
+[a relative link] (Extra.md)
